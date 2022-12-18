@@ -9,5 +9,6 @@ public class Quadrat {
 
     public int getArea() {
         return len * len;
+        //Hallo
     }
 }
